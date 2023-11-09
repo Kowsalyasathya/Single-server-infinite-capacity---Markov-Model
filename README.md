@@ -9,18 +9,13 @@ Visual components and Python
 ## Theory:
 Queuing are the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism.
 
-![image](1.png)
-
 This is a queuing model in which the arrival is Marcovian and departure distribution is also Marcovian,number of server is one and size of the queue is also Marcovian,no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
 
 ## Procedure :
-
-![imAGE](2.png)
-
 ## Experiment:
 ![276540541-9b1c208e-40bb-4ae0-bafb-b22b875fc47e](https://github.com/Kowsalyasathya/Single-server-infinite-capacity---Markov-Model/assets/118671457/5c0be81b-1301-405b-98a8-176148031e87)
 
-## Program
+## Program :
 ```
 DEVELOPED BY:Kowsalya M
 REG NO:212222230069
