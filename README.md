@@ -2,19 +2,15 @@
 ## Date :13.10.2023
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
-
 ## Software required :
 Visual components and Python
-
 ## Theory:
 Queuing are the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism.
 
 This is a queuing model in which the arrival is Marcovian and departure distribution is also Marcovian,number of server is one and size of the queue is also Marcovian,no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
-
 ## Procedure :
 ## Experiment:
 ![276540541-9b1c208e-40bb-4ae0-bafb-b22b875fc47e](https://github.com/Kowsalyasathya/Single-server-infinite-capacity---Markov-Model/assets/118671457/5c0be81b-1301-405b-98a8-176148031e87)
-
 ## Program :
 ```
 DEVELOPED BY:Kowsalya M
@@ -47,6 +43,5 @@ print("---------------------------------------------------------------")
 ```
 ## Output :
 ![276527617-9c05c8a6-47cd-414a-9801-5172b7c8f786](https://github.com/Kowsalyasathya/Single-server-infinite-capacity---Markov-Model/assets/118671457/cb64ec44-1e02-46ac-a62d-838e7d3e4457)
-
 ## Result :
 Thus the program was executed successfully and got the output for single server with infinite capacity.
